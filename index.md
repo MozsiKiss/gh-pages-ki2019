@@ -1,3 +1,5 @@
+# Adding a new fancy header here
+
 ---
 layout: default
 title: Example
